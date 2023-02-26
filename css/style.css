@@ -39,7 +39,7 @@ section.box1{
 }
 
 .img-logo:hover{
-    border-color: black;
+    border-color: green;
 }
 .img-logo{
     border:2px solid white;
