@@ -1,7 +1,5 @@
-// JavaScript Document<script type='text/javascript'>
-            // <![CDATA[
-            var colour="green";
-            var sparkles=65;
+            var colour="white";
+            var sparkles=80;
      
             var x=ox=400;
             var y=oy=300;
@@ -153,5 +151,3 @@
               div.style.backgroundColor=colour;
               return (div);
             }
-            // ]]>
-
